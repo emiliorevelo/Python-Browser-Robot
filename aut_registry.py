@@ -1,7 +1,7 @@
 #Emilio Revelo
 
 #Automated user registry written in Python with selenium library
-#This just an example, you can use it for any task that you need
+#This just an example, you can use it for any task that you may need
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
